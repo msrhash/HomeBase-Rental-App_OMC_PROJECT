@@ -2,7 +2,7 @@
 Imports MySql.Data.MySqlClient
 
 Public Class Search
-    Dim connectionString As String = "Server=110.4.43.110;Database=homebasegponecs;Uid=maisarah;Pwd=maisarah;"
+    Dim connectionString As String = "server credentials"
     Private Sub btnUser_Click(sender As Object, e As EventArgs) Handles btnUser.Click
 
         user_list.Show()

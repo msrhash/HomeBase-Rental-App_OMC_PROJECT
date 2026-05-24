@@ -1,7 +1,7 @@
 ﻿Imports MySql.Data.MySqlClient
 
 Public Class History
-    Dim connectionString As String = "Server=110.4.43.110;Database=homebasegponecs;Uid=maisarah;Pwd=maisarah;"
+    Dim connectionString As String = "server credentials"
     Private conn As MySqlConnection = New MySqlConnection(connectionString)
     Private Sub btnUser_Click(sender As Object, e As EventArgs) Handles btnUser.Click
         user_list.Show()

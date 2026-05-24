@@ -73,7 +73,7 @@ Public Class ScheduleConfirmation
         End If
 
         ' Save the data into the database
-        Using connection As New MySqlConnection("Server=110.4.43.110;Database=homebasegponecs;Uid=maisarah;Pwd=maisarah;")
+        Using connection As New MySqlConnection("server credentials")
             Dim query As String = "INSERT INTO viewing (id, information, approve, image) VALUES (@houseId, @information, @approve, @image)"
             Dim command As New MySqlCommand(query, connection)
             command.Parameters.AddWithValue("@houseId", houseId)

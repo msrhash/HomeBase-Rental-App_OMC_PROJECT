@@ -1,6 +1,6 @@
 ﻿Imports MySql.Data.MySqlClient
 Public Class Profile
-    Dim connectionString As String = "Server=110.4.43.110;Database=homebasegponecs;Uid=maisarah;Pwd=maisarah;"
+    Dim connectionString As String = "server credentials"
 
     Private Sub Profile_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         LoadUserProfile()

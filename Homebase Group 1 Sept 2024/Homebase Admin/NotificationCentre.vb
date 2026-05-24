@@ -17,7 +17,7 @@ Public Class NotificationCentre
     End Sub
 
     Private Sub NotificationCentre_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Dim connectionString As String = "Server=110.4.43.110;Database=homebasegponecs;Uid=maisarah;Pwd=maisarah;"
+        Dim connectionString As String = "server credentials"
         Dim loadNotificationsQuery As String = "SELECT noti_id, message, created_at, is_read FROM notification WHERE user_id = @userId ORDER BY created_at DESC"
         Dim markAsReadQuery As String = "UPDATE notification SET is_read = TRUE WHERE user_id = @userId AND is_read = FALSE"
 

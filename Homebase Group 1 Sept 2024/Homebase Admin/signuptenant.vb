@@ -1,7 +1,7 @@
 ﻿Imports MySql.Data.MySqlClient
 
 Public Class signuptenant
-    Dim connectionString As String = "Server=110.4.43.110;Database=homebasegponecs;Uid=maisarah;Pwd=maisarah;"
+    Dim connectionString As String = "server credentials"
     Private Sub lblExit_Click(sender As Object, e As EventArgs) Handles lblExit.Click
         Application.Exit()
     End Sub

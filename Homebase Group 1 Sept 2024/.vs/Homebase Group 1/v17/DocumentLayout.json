@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Homebase Group 1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Group 1.vbproj|c:\\users\\toshiba\\source\\repos\\homebase group 1 sept 2024\\homebase admin\\deposit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Group 1.vbproj|solutionrelative:homebase admin\\deposit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Group 1.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\approval.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Group 1.vbproj|solutionrelative:homebase admin\\approval.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\viewing schedule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\viewing schedule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\viewing schedule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\viewing schedule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\houselist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\houselist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\history.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\history.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\viewing request.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\viewing request.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\add house.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\add house.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\search.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\search.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\user_list.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\user_list.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Group 1.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\scheduleviewing.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Group 1.vbproj|solutionrelative:homebase admin\\scheduleviewing.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\houseinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\houseinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\homepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\homepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\signuptenant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\signuptenant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\logintenant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\logintenant.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Group 1.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\profile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Group 1.vbproj|solutionrelative:homebase admin\\profile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\chat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\chat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Group 1.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\uploadresit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Group 1.vbproj|solutionrelative:homebase admin\\uploadresit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\paydeposit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\paydeposit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\scheduleconfirmation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\scheduleconfirmation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\notificationcentre.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\notificationcentre.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Group 1.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\first.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Group 1.vbproj|solutionrelative:homebase admin\\first.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\homebase admin\\admin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Admin.vbproj|solutionrelative:homebase admin\\admin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D761FD-FDCF-4B30-8E2D-96FD3638D4A3}|Homebase Admin\\Homebase Group 1.vbproj|c:\\users\\toshiba\\source\\repos\\homebase group 1 sept 2024\\homebase admin\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Approval.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Approval.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\Approval.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Approval.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\Approval.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T14:15:51.976Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deposit.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Deposit.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\Deposit.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Deposit.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\Deposit.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T14:15:52.561Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Viewing Schedule.vb",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Viewing Schedule.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\Viewing Schedule.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Viewing Schedule.vb",
+              "RelativeToolTip": "Homebase Admin\\Viewing Schedule.vb",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-18T15:05:33.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Viewing Schedule.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Viewing Schedule.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\Viewing Schedule.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Viewing Schedule.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\Viewing Schedule.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T06:30:54.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "History.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\History.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\History.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\History.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\History.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T06:24:52.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Viewing request.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Viewing request.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\Viewing request.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Viewing request.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\Viewing request.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T05:47:35.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "add house.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\add house.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\add house.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\add house.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\add house.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T06:11:30.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Houselist.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Houselist.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\Houselist.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Houselist.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\Houselist.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-27T04:37:19.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Search.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Search.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\Search.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Search.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\Search.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-27T04:12:49.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "user_list.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\user_list.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\user_list.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\user_list.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\user_list.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-11T04:25:21.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Login.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\Login.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Login.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-26T15:27:14.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Profile.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Profile.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\Profile.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Profile.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\Profile.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T14:22:12.545Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NotificationCentre.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\NotificationCentre.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\NotificationCentre.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\NotificationCentre.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\NotificationCentre.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-15T18:24:09.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Chat.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Chat.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\Chat.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Chat.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\Chat.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-15T18:30:23.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UploadResit.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\UploadResit.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\UploadResit.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\UploadResit.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\UploadResit.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T14:15:50.563Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PayDeposit.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\PayDeposit.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\PayDeposit.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\PayDeposit.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\PayDeposit.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-15T19:00:20.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ScheduleConfirmation.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\ScheduleConfirmation.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\ScheduleConfirmation.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\ScheduleConfirmation.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\ScheduleConfirmation.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-15T18:57:47.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScheduleViewing.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\ScheduleViewing.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\ScheduleViewing.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\ScheduleViewing.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\ScheduleViewing.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T14:15:48.166Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HouseInfo.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\HouseInfo.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\HouseInfo.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\HouseInfo.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\HouseInfo.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-15T18:42:03.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Homepage.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Homepage.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\Homepage.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Homepage.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\Homepage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-15T17:23:21.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "signuptenant.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\signuptenant.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\signuptenant.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\signuptenant.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\signuptenant.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-15T17:13:20.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginTenant.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\LoginTenant.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\LoginTenant.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\LoginTenant.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\LoginTenant.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-15T17:00:37.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Admin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Admin.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\Admin.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Admin.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\Admin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-26T14:35:36.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "First.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\First.vb",
+              "RelativeDocumentMoniker": "Homebase Admin\\First.vb",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\First.vb [Design]",
+              "RelativeToolTip": "Homebase Admin\\First.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T14:15:41.761Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Homebase Group 1",
+              "DocumentMoniker": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Homebase Group 1.vbproj",
+              "RelativeDocumentMoniker": "Homebase Admin\\Homebase Group 1.vbproj",
+              "ToolTip": "C:\\Users\\Toshiba\\source\\repos\\Homebase Group 1 Sept 2024\\Homebase Admin\\Homebase Group 1.vbproj",
+              "RelativeToolTip": "Homebase Admin\\Homebase Group 1.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-20T14:20:07.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

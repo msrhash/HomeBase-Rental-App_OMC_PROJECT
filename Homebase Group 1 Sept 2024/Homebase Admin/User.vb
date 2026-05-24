@@ -3,7 +3,7 @@
 Public Class User
     Public Property SelectedUserID As Integer
 
-    Dim connectionString As String = "Server=110.4.43.110;Database=homebasegponecs;Uid=maisarah;Pwd=maisarah;"
+    Dim connectionString As String = "server credentials"
 
 
     Public Sub User_Load(sender As Object, e As EventArgs) Handles MyBase.Load

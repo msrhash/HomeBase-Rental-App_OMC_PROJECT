@@ -1,7 +1,7 @@
 ﻿Imports Homebase_Admin.LoggedInUser
 Imports MySql.Data.MySqlClient
 Public Class LoginTenant
-    Dim connectionString As String = "Server=110.4.43.110;Database=homebasegponecs;Uid=maisarah;Pwd=maisarah;"
+    Dim connectionString As String = "server credential"
     Public Shared UserID As Integer
     Private Sub lblExit_Click(sender As Object, e As EventArgs) Handles lblExit.Click
         Application.Exit()

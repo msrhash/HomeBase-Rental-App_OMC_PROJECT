@@ -2,7 +2,7 @@
 Imports MySql.Data.MySqlClient
 
 Public Class Homepage
-    Dim connectionString As String = "Server=110.4.43.110;Database=homebasegponecs;Uid=maisarah;Pwd=maisarah;"
+    Dim connectionString As String = "server credentials"
     Private Sub pcbExit_Click(sender As Object, e As EventArgs) Handles pcbExit.Click
         Application.Exit()
     End Sub

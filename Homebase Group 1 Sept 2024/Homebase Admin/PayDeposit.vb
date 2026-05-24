@@ -1,7 +1,7 @@
 ﻿Imports MySql.Data.MySqlClient
 
 Public Class PayDeposit
-    Private connectionString As String = "Server=110.4.43.110;Database=homebasegponecs;Uid=maisarah;Pwd=maisarah;"
+    Private connectionString As String = "server credentials"
     Private houseId As Integer
 
 

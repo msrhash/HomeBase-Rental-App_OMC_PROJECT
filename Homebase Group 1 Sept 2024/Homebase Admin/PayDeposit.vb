@@ -23,7 +23,7 @@ Public Class PayDeposit
         LoadHousePrice()
     End Sub
     Private Sub LoadHousePrice()
-        Dim connectionString As String = "Server=110.4.43.110;Database=homebasegponecs;Uid=maisarah;Pwd=maisarah;"
+        Dim connectionString As String = "server credentials"
 
         Using connection As New MySqlConnection(connectionString)
             Try

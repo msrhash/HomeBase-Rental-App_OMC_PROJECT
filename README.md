@@ -27,5 +27,5 @@ This group project was developed as part of the **Oh My Code (OMC)** project.
 
 ---
 
-## 📌 Project Status
+## Project Status
 Completed as part of **OMC Project (22 November 2024)

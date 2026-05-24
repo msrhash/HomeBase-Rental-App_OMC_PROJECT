@@ -3,7 +3,7 @@ Imports System.Web.UI.WebControls
 Imports MySql.Data.MySqlClient
 
 Public Class Approval
-    Dim connectionString As String = "Server=110.4.43.110;Database=homebasegponecs;Uid=maisarah;Pwd=maisarah;"
+    Dim connectionString As String = "server credentials"
     Public mainFormReference As Deposit
 
     Private Sub btnUser_Click(sender As Object, e As EventArgs) Handles btnUser.Click

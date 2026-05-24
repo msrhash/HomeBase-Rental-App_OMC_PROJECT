@@ -1,6 +1,6 @@
 ﻿Public Class HouseInfo
 
-    Dim connectionString As String = "Server=110.4.43.110;Database=homebasegponecs;Uid=maisarah;Pwd=maisarah;"
+    Dim connectionString As String = "server credentials"
     Public mainFormReference As Homepage
     Private houseId As Integer
     Private houseInfor As String

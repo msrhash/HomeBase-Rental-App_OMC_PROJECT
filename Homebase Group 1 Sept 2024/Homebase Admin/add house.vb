@@ -120,7 +120,7 @@ Public Class add_house
     End Sub
 
     Private Sub btnAdd_Click(sender As Object, e As EventArgs) Handles btnAdd.Click
-        Dim connectionString As String = "Server=110.4.43.110;Database=homebasegponecs;Uid=maisarah;Pwd=maisarah;"
+        Dim connectionString As String = "server credentials"
         Dim query As String = "INSERT INTO house_list (id, image, home_info) VALUES (@id, @image, @home_info)"
 
         Using connection As New MySqlConnection(connectionString)
